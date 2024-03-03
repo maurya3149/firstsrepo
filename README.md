@@ -1,2 +1,2 @@
 # firstsrepo
-just learning about the github
+just learning about the github and creating my first repository
